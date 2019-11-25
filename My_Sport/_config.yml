@@ -1,8 +1,8 @@
-title: My_Sport
+title: My Sport
 email: mgospodinov1978@gmail.com
 description: Hi there!
 destination: docs
-baseurl: "/My_Sport" 
+baseurl: "" 
 url: "" 
 twitter_username: gospod1978
 github_username:  gospod1978
@@ -10,8 +10,8 @@ github_username:  gospod1978
 theme: 
 plugins:
   - jekyll-feed
-# exclude:
-# - docs
+#exclude:
+#    - docs
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

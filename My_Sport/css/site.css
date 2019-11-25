@@ -103,6 +103,15 @@ blockquote p.author {
   align-items: center;
 }
 
+.site-header h1 {
+  padding-bottom: 0.5em;
+}
+
+.site-header h1 a {
+  text-decoration: none;
+  color: #3498db;
+}
+
 .card {
   border: 2px solid #CCC;
 }
